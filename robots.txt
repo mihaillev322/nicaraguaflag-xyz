@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nicaraguaflag.xyz/sitemap.xml
